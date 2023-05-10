@@ -1,0 +1,51 @@
+﻿LocationID,Location Name,No of ATMs,Locality,District,Country
+WD-001, Meenakshi Garden,7,Ashok Nagar,West Delhi,India
+WD-002,Metro Station RoadATM,3,Ashok Nagar,West Delhi,India
+WD-003,"Block K, Gopal Nagar ATM",3,Fateh Nagar,West Delhi,India
+WD-004," Tum Rd, Pocket D  ATM",3,Okhla Industrial Estate,West Delhi,India
+WD-005,Netaji Subhash Vihar Industrial Area ATM,3,Netaji Subhash Vihar,West Delhi,India
+WD-006,Wazirpur Industrial Area  ATM,3, Ashok Vihar,West Delhi,India
+WD-007,Manas Kunj Rd ATM,3,Uttam Nagar ,West Delhi,India
+WD-008,Santosh Park ATM,3,Uttam Nagar ,West Delhi,India
+WD-009, Press Colony ATM,3,Mayapuri,West Delhi,India
+WD-010,Nanak Pura ATM,3,Hari Nagar,West Delhi,India
+WD-011,DDA Community Centre 32 ATM,3,Pitam Pura,West Delhi,India
+WD-012,Main Pankha Road ATM,3, Sagarpur,West Delhi,India
+WD-013,New Mahavir Nagar ATM,3,Tilak Nagar,West Delhi,India
+WD-014, Block B1 ATM,3,Janakpuri,West Delhi,India
+WD-015,Bhera Enclave ATM,3,Paschim Vihar,West Delhi,India
+ED-001,Old AnarKali Main Road Arjun Gali ATM,5,Jagat Puri,East Delhi,India
+ED-002,Main Mandoli Rd ATM,2,Shahdara,East Delhi,India
+ED-003,"Veer Savarkar Block, Block A ATM",2,Laxmi Nagar,East Delhi,India
+ED-004," Veer Savarkar Block, Block S1 ATM",2,Laxmi Nagar,East Delhi,India
+ED-005,Guru Nanak Pura ATM,2,Laxmi Nagar,East Delhi,India
+ED-006,"Bharat Vihar Rd, Raja Puri ATM",2, Madhu Vihar,East Delhi,India
+ED-007,"Bharat Vihar Rd, Block T ATM",2, Madhu Vihar,East Delhi,India
+ED-008, Mandawali Main Road ATM,2,Joshi Colony,East Delhi,India
+ED-009,I.P.Extension ATM,2,Patparganj,East Delhi,India
+ED-010,"Veer Savarkar Block, Block S1 ATM",2,Laxmi Nagar,East Delhi,India
+CD-001,Moolchand ATM,5,Lajpat Nagar,Central Delhi,India
+CD-002,Block C ATM,2,Connaught Place,Central Delhi,India
+CD-003,"DIZ Staff Quarters,  ATM",2,Gole Market,Central Delhi,India
+CD-004,Ajmeri Gate ATM,2,Ajmeri Gate,Central Delhi,India
+CD-005,"East Park Road, Karol Bagh ATM",2,Karol Bagh,Central Delhi,India
+CD-006,"Ghanta Ghar Chowk, Block F ATM",2,Sabji Mandi,Central Delhi,India
+SD-001,"Block A, Hauz Khas ATM",5,Tehsil hauz khas,South Delhi,India
+SD-002,"Block D, Friends Colony East ATM",2,New Friends Colony,South Delhi,India
+SD-003,"Okhla Vihar, Block C ATM",2, Jamia Nagar,South Delhi,India
+SD-004,"Durga Vihar, Devli ATM",2,Sangam Vihar,South Delhi,India
+SD-005,"Block B, Block L 2, Devli ATM",2,sangam Vihar,South Delhi,India
+SD-006,Vinay Nagar ATM,2,Sarojni Nagar,South Delhi,India
+SD-007,Palika Awasi ATM,2,Sarojni Nagar,South Delhi,India
+SD-008,Mata Naina Devi Marg ATM,2,Lajpat Nagar,South Delhi,India
+SD-009,Jangpura ATM,2,Lajpat Nagar,South Delhi,India
+ND-001,"Block B, Model Town Phase I ATM",5,Model Town,North Delhi,India
+ND-002, Metro Station Inderlok ATM,2, Shastri Nagar,North Delhi,India
+ND-003,"Asaf Ali Road, Kamla Market ATM",2,Ajmeri Gate,North Delhi,India
+ND-004,"D25, Block D ATM",2,Pandav Nagar,North Delhi,India
+ND-005,Bhalswa Jahangir Village ATM,2,Jahangirpuri,North Delhi,India
+ND-006,"DDA Market, Block E 3 ATM",2,Jahangirpuri,North Delhi,India
+ND-007, Metro Station Road ATM,2,New Ashok Nagar,North Delhi,India
+ND-008,Kaccha Bagh Area ATM,2,Chandni Chowk,North Delhi,India
+ND-009,Baba Colony ATM,2,Burari,North Delhi,India
+ND-010,"1st Floor, Near Jama Masjid ATM",2,Chawri Bazar,North Delhi,India
